@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Compact object mergers over cosmic time
+        title: Compact object populations over cosmic time
         link: soon
         # link_text: Project Website
         additional_links:
@@ -85,6 +85,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           Objects in the mass gap; stellar BH masses.
   
+- title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of São Paulo
+        caption: 2021 - 2025 (expected)
+        sub_title: PhD Astronomy
+        quote: >
+          quote
+        description: | # this will include new lines to allow paragraphs
+          Compact object populations over cosmic time
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -95,19 +107,12 @@ content:
         quote: >
           quote
         description: | # this will include new lines to allow paragraphs
-          From low to high energy physics
+          Machine learning optimization of a magneto-optical trap
           
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Somehow it all started with Bose-Einstein condensates...
 
 # Footer
 footer_show_references: true
