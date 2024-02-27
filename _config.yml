@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Lucas de Sá
-title: Ph.D. Candidate
+title: Ph.D. Candidate in Astronomy, University of São Paulo
 email: lucasmdesa@usp.br
 website: lucasmdesa.github.io
 
@@ -96,10 +96,6 @@ content:
           quote
         description: | # this will include new lines to allow paragraphs
           Compact object populations over cosmic time
-  
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: University of São Paulo
         caption: 2017 - 2020
